@@ -7,7 +7,7 @@ keywords = ["discord", "interaction", "api", "serde"]
 repository = "https://github.com/wosher-co/discordinteractions"
 homepage = "https://github.com/wosher-co/discordinteractions"
 readme = "README.md"
-license = "Rights Reserved"
+license = "CC-BY-4.0"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"], optional = true }
