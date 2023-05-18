@@ -7,7 +7,7 @@ A simple library for declaring Discord interactions.
 Add the `serde_support` to your `Cargo.toml` to enable serde support.
 
 ```toml
-discord_interactions = { version = "1", features = ["serde_support"] }
+discordinteractions = { version = "1", features = ["serde_support"] }
 ```
 
 ## Example
